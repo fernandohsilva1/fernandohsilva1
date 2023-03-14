@@ -1,4 +1,4 @@
- <h1 align="center">👨‍🚀 Fernando Henrique Silva</h1> 
+ <h1 align="center">🚀 Fernando Henrique Silva</h1> 
  
  <div align="center">
   <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
