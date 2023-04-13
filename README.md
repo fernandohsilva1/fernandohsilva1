@@ -2,7 +2,7 @@
  
  <div align="center">
   <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
- <p>🌱 Estudando JavaScript</p>
+ <p>🌱 Estudando React</p>
  </div>
  
 <div align="center">
